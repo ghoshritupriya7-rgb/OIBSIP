@@ -55,3 +55,7 @@ Perform exploratory data analysis on unemployment data to uncover regional and t
 - **Unemployment rate was nearly uncorrelated with labour participation rate** (r ≈ 0.003), suggesting the crisis was driven by job losses among people already in the workforce rather than by people entering or exiting the labour market — consistent with a sudden-shock event like a lockdown rather than a gradual economic shift.
 
 ## How to Run
+1. Clone this repository
+2. Ensure Unemployment In India.csv is in the same directory as the notebook
+3. Open 'unemployment_analysis.ipynb' in Jupyter Notebook or Google Colab
+4. Run all cells sequentially (top to bottom)
