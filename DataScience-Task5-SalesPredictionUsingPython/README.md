@@ -95,6 +95,6 @@ The residual plot for the best-performing model shows errors scattered randomly 
 ## 📁 Repository Structure
 ## How to Run
 1. Clone this repository
-2. Ensure required libraries are installed:
+2. Ensure Advertising.csv is in the same directory as the notebook
 3. Open `sales_prediction.ipynb` in Jupyter Notebook or Google Colab
 4. Run all cells sequentially (top to bottom)
